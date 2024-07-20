@@ -1,0 +1,31 @@
+test3Human Resources <hr@selfmade.ninja>
+	
+	
+Jul 13, 2024, 2:25 PM (6 days ago)
+	
+to me
+Dear[ARAVIND S],
+
+I hope this message finds you well. We are excited about your participation in our upcoming project focusing on creating a Docker-based Capture The Flag (CTF) challenge. Below, you will find the details of the assignment, along with the submission guidelines.
+
+Project Overview:
+You are tasked with developing a Dockerized Web Application Vulnerability Lab. This will be a simple web application containing intentional vulnerabilities. The objective is to create a series of challenges where participants exploit these vulnerabilities to find hidden flags, scoring points for each flag discovered.
+
+Key Components of the Project:
+- Docker Setup: Ensure the application runs in an isolated, secure Docker container.
+- Web Application: Develop a multi-page application vulnerable to attacks like SQL Injection, XSS, Command Injection, and Insecure File Upload.
+- Vulnerabilities and Flags: Introduce vulnerabilities and embed hidden flags within the application.
+- Documentation: Provide clear setup and run instructions, along with challenge descriptions and hints.
+
+Submission Guidelines:
+- Initial Commit: Make an initial commit to your Git repository as soon as you receive this email. This will mark the start of your project.
+- Ongoing Work: Regularly push your work to the repository. We will be reviewing the commit history to understand your development process.
+- Final Commit: Ensure that your last commit is made before the deadline on the 20th at 12:00 PM. Late submissions will not be accepted.
+- Proof of Concept: Along with your project, submit a proof of concept showing your Dockerfile successfully running on your system. This can be a brief video or screenshots demonstrating the setup and functionality.
+- Repository Link: Send the link to your Git repository to venkatesh@selfmade.ninja by the deadline.
+
+This project is not only a test of your technical abilities in Docker, web development, and security but also an opportunity to contribute to an engaging and educational CTF event. Your attention to detail and creativity in challenge development are crucial.
+
+If you have any questions or need further clarification, please feel free to reach out.
+
+We look forward to seeing your innovative approach to this project. Best of luck, and happy coding!
