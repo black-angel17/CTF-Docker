@@ -13,8 +13,9 @@ _First using git clone add this to you directory (https://github.com/black-angel
 
 ## first scan the machine using nmap
 ![image](https://github.com/user-attachments/assets/3c6e1ccd-63a4-4ea3-b2e0-4d9e49e32d34)
-
-
+_
+open ports are vibile as you see ssh is open so search for usernam and password
+_
 
 ### now Webpage should be visible
 ![image](https://github.com/user-attachments/assets/2cce0d44-468e-47f8-9e8e-e0f1bb070ad7)
