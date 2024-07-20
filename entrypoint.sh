@@ -15,3 +15,4 @@ rm -r /var/labsdata*
 
 node /home/floki/app/server.js &
 /usr/sbin/sshd -D
+echo "A port has been opened in localhost:80"
