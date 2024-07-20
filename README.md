@@ -15,7 +15,6 @@
 
 
 
-
 ### now Webpage should be visible
 ![image](https://github.com/user-attachments/assets/2cce0d44-468e-47f8-9e8e-e0f1bb070ad7)
 
@@ -30,11 +29,30 @@
 ### search for more on Java script
 ![image](https://github.com/user-attachments/assets/0e689a4e-1aa4-4836-80fa-4e6882be679b)
 
-##this code is vulnerable it fetches note1,note2,note3
-##by 3 different request by changinthe path im including the server.js file directly which return the content of the server code
+### this code is vulnerable it fetches note1,note2,note3
+### by 3 different request by changinthe path im including the server.js file directly which return the content of the server code
+
 ![image](https://github.com/user-attachments/assets/c8334806-f33d-4a35-91b5-8749acf17268)
 
 ### After reding the server side scripting it is including the files which out considering any input validation so im using path traversal to /etc/passwd file 
 ![image](https://github.com/user-attachments/assets/d3c4ac12-d339-4e6a-a427-094effabe565)
 
-##now the user name and the home path is visible
+## now the user name and the home path is visible
+## (../../../../../../../../../home/floki/.ssh/id_rsa) -- this payload works well after url encode
+![image](https://github.com/user-attachments/assets/3baabbb2-6d21-4c57-8936-cb29afaa8fda)
+
+### Now we got private key,we already know ssh port is open so i used ssh to connect
+![image](https://github.com/user-attachments/assets/1ef8d836-2fde-4d73-8e36-9cbe050d963c)
+
+#### which return the shell
+##Now i got the first flag
+![image](https://github.com/user-attachments/assets/ef5136b8-323d-45ae-ad68-1f56ca56dd0f)
+
+#for privilage escalation
+![image](https://github.com/user-attachments/assets/9547e4f4-854a-4167-bc1c-77986697a6a0)
+
+## this vi binary is vulnerable 
+## so search for explaoit in online we got the payload and successfully got the root user privilage
+![image](https://github.com/user-attachments/assets/587e9f7c-37e9-4104-9866-cab7f95d1ab2)
+
+
