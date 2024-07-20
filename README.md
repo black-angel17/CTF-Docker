@@ -44,14 +44,14 @@ _First using git clone add this to you directory (https://github.com/black-angel
 
 ![image](https://github.com/user-attachments/assets/3baabbb2-6d21-4c57-8936-cb29afaa8fda)
 
-### Now we got private key,we already know ssh port is open so i used ssh to connect
+### Now we got private key,we already know ssh port is open so i used this key to connect through ssh. 
 ![image](https://github.com/user-attachments/assets/1ef8d836-2fde-4d73-8e36-9cbe050d963c)
 
-#### which return the shell
+#### which return the user shell
 ## Now i got the first flag
 ![image](https://github.com/user-attachments/assets/ef5136b8-323d-45ae-ad68-1f56ca56dd0f)
 
-# for privilage escalation
+# for privilage escalation, i used sudo -l
 ![image](https://github.com/user-attachments/assets/9547e4f4-854a-4167-bc1c-77986697a6a0)
 
 ## this vi binary is vulnerable 
