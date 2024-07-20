@@ -4,7 +4,7 @@
 
 _First using git clone add this to you directory (https://github.com/black-angel17/CTF-Docker.git)_
 
-### run the ./Deploy.sh
+###  Give the execuriton permission chmod +x Deploy.sh and run the ./Deploy.sh
 ![image](https://github.com/user-attachments/assets/09c23d87-f20b-4170-bc47-fca0634b5525)
 
 ### it return the container ip - paste it on the browser
