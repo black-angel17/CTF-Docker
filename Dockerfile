@@ -12,7 +12,7 @@ RUN apt-get update && \
     vim-tiny \
     sudo 
 
-RUN userdel -r ubuntu
+#RUN userdel -r ubuntu
 
 RUN useradd -m -s /bin/bash floki && \
     echo "floki:b.t9[M2:4~C5lJ24V'o" | chpasswd && \
