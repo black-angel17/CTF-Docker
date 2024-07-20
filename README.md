@@ -1,8 +1,9 @@
 # POC- LFI
 
-** ** This is mainly a Local filew inclusion Attack vulnerabilty that is implemented using the Dockers here--
+## This is mainly a Local filew inclusion Attack vulnerabilty that is implemented using the Dockers here--
 
-### First using git clone add this to you directory 
+** ** First using git clone add this to you directory (https://github.com/black-angel17/CTF-Docker.git)
+
 ### run the ./Deploy.sh
 ![image](https://github.com/user-attachments/assets/09c23d87-f20b-4170-bc47-fca0634b5525)
 
