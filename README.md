@@ -6,12 +6,14 @@
 ### run the ./Deploy.sh
 ![image](https://github.com/user-attachments/assets/09c23d87-f20b-4170-bc47-fca0634b5525)
 
+### it return the container ip - paste it on the browser
+![image](https://github.com/user-attachments/assets/088676d8-0979-453e-839f-1a6440bea76c)
+
+
 ## first scan this using nmap
 ![image](https://github.com/user-attachments/assets/3c6e1ccd-63a4-4ea3-b2e0-4d9e49e32d34)
 
 
-### it return the container ip - paste it on the browser
-![image](https://github.com/user-attachments/assets/088676d8-0979-453e-839f-1a6440bea76c)
 
 
 ### now Webpage should be visible
