@@ -45,14 +45,14 @@
 ![image](https://github.com/user-attachments/assets/1ef8d836-2fde-4d73-8e36-9cbe050d963c)
 
 #### which return the shell
-##Now i got the first flag
+## Now i got the first flag
 ![image](https://github.com/user-attachments/assets/ef5136b8-323d-45ae-ad68-1f56ca56dd0f)
 
-#for privilage escalation
+# for privilage escalation
 ![image](https://github.com/user-attachments/assets/9547e4f4-854a-4167-bc1c-77986697a6a0)
 
 ## this vi binary is vulnerable 
 ## so search for explaoit in online we got the payload and successfully got the root user privilage
 ![image](https://github.com/user-attachments/assets/587e9f7c-37e9-4104-9866-cab7f95d1ab2)
 
-
+## now we got the root flag 
